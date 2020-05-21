@@ -2,6 +2,6 @@
 
 @section('content')
     <div class="container">
-        <h1>Welcome to Subb Test Laravel</h1>
+        <h1>Welcome to 2 Subb Test Laravel</h1>
     </div>
 @endsection
